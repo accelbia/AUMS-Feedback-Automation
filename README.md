@@ -1,5 +1,5 @@
 # AUMS Feedback Automation
-The fastest Amrita AUMS feedback completion system, powered by Streamlit and Selenium. Basic yet adequate UI for completing the feedback task in under a minute, which could normally take 20-30 minutes. Thanks to [Soorya](https://github.com/SooryaSRajan) since a lot of the technical difficulties faced could be resolved because of his version of the [project](https://github.com/SooryaSRajan/AUMS-Feedback-Form-Selenium).
+The fastest Amrita AUMS feedback completion system, powered by Streamlit and Selenium. Basic yet adequate UI for completing the feedback task in under a minute, which could normally take 20-30 minutes. A big Thank You to [Soorya](https://github.com/SooryaSRajan) since a lot of the technical difficulties faced could be resolved because of his version of the [project](https://github.com/SooryaSRajan/AUMS-Feedback-Form-Selenium).
 
 ## Prerequisites
 - Git
