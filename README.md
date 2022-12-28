@@ -19,3 +19,4 @@ The fastest Amrita AUMS feedback completion system, powered by Streamlit and Sel
 3. Use the slider to select the rating you want to give to your course faculty (1 being the lowest and 5 being the highest). 
 4. Click on the `Fill Feedback Button`.
 ![image](https://user-images.githubusercontent.com/67522615/209867426-e0ae8066-e912-43b4-8c78-70666543380b.png)
+![ezgif-1-d4479fe93e](https://user-images.githubusercontent.com/67522615/209868977-f570c92b-500f-4a6e-a392-7bbec6500c40.gif)
